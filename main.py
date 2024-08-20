@@ -6,7 +6,7 @@ iterable_update = "https://api.iterable.com/api/users/update"
 
 update_headers = {
     "Content-Type": "application/json",
-    "Api-Key": "f435988be541463fb59da3e9d16d0925"
+    "Api-Key": "api_key"
 }
 
 df = pd.read_csv("Phone Numbers Need Backfill -- 03-21-23.csv")
